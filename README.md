@@ -23,7 +23,7 @@
         </div>
       </nav>
       <section class="hero">
-        <h1>Hi, I'm [Your Name]</h1>
+        <h1>Hi, I'm Samikshyee</h1>
         <p>A [Your Profession]</p>
         <a href="#services">Learn More</a>
       </section>
